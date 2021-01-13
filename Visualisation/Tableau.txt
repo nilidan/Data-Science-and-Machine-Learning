@@ -1,0 +1,10 @@
+Files can come from many files. These files can be connected
+To connect to ad data file it, Go to connections and choose file.
+Can connect to many types of data file from Excel to Text to Statiscal file to Excel and JSON
+
+To A Server Mysql to something else.
+Csv can be connected through text file.
+
+Work Shit Tab-
+Data Column
+ Right Click> view data
